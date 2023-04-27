@@ -6,6 +6,8 @@ body{
   padding: 0;
   min-height: 100vh;
   background-image: linear-gradient($azul-escuro, $azul-claro);
+  
+  
   box-sizing: border-box;
 }
 
@@ -15,7 +17,10 @@ body::-webkit-scrollbar{
 }
 
 body::-webkit-scrollbar-thumb{
-  background-color: $azul-claro;
+  background-color: transparent;
+  background-image: url(./sabreScroll.png);
+  background-position: center;
+  background-repeat: no-repeat;
   border-radius: 20px;
 }
 

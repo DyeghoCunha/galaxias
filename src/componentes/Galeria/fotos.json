@@ -1,73 +1,272 @@
 
 [
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-1.png",
+    "titulo": "Bespin",
+    "creditos": "Ugnaughts, Bespin Wing",
+    "imagem": "/assets/imagens/StarWars/bespin.jpeg",
     "id": "1",
-    "tag": "Galáxias"
+    "tag": "Gasoso"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-2.png",
+    "titulo": "Asha-Ree",
+    "creditos": "Zeffo, Jotaz",
+    "imagem": "/assets/imagens/StarWars/ashas-ree.jpeg",
     "id": "2",
-    "tag": "Estrelas"
+    "tag": "Desconhecida"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-3.png",
+    "titulo": "Campo de Asteroide",
+    "creditos": "-",
+    "imagem": "/assets/imagens/StarWars/asteroidField.jpeg",
     "id": "3",
-    "tag": "Lua"
+    "tag": "Desconhecida"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-4.png",
+    "titulo": "Bora-vio",
+    "creditos": "Desilijic, Anzati",
+    "imagem": "/assets/imagens/StarWars/bora-vio.jpeg",
     "id": "4",
-    "tag": "Galáxias"
+    "tag": "Desconhecida"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-5.png",
+    "titulo": "Catilon",
+    "creditos": "Catilonian, Shelish",
+    "imagem": "/assets/imagens/StarWars/castilon.jpeg",
     "id": "5",
-    "tag": "Estrelas"
+    "tag": "Desconhecida"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-6.png",
+    "titulo": "Celsor3",
+    "creditos": " Celsorian, Tognath",
+    "imagem": "/assets/imagens/StarWars/celsor3.jpeg",
     "id": "6",
-    "tag": "Nebulosas"
+    "tag": "Desconhecida"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-7.png",
+    "titulo": "Concord Dawn",
+    "creditos": "Mandalorianos, Gauntlet",
+    "imagem": "/assets/imagens/StarWars/concordDawn.jpeg",
     "id": "7",
-    "tag": "Galáxias"
+    "tag": "Deserto"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-8.png",
+    "titulo": "Concordia",
+    "creditos": "Mandalorianos, Clan Vizsla",
+    "imagem": "/assets/imagens/StarWars/concordia.jpeg",
     "id": "8",
-    "tag": "Nebulosas"
+    "tag": "Montanhoso"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-9.png",
+    "titulo": "Coruscant",
+    "creditos": "Humano, Twi'lek",
+    "imagem": "/assets/imagens/StarWars/coruscant.jpeg",
     "id": "9",
-    "tag": "Estrelas"
+    "tag": "Urbano"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
-    "imagem": "/assets/imagens/galeria/foto-10.png",
+    "titulo": "Corvus",
+    "creditos": "Wroonian, Gossam",
+    "imagem": "/assets/imagens/StarWars/corvus.jpeg",
     "id": "10",
-    "tag": "Estrelas"
+    "tag": "Desconhecida"
+  },
+  {
+    "titulo": "Dagobah",
+    "creditos": "Yoda, Shaak",
+    "imagem": "/assets/imagens/StarWars/dagobah.jpeg",
+    "id": "10",
+    "tag": "Pantanoso"
+  },
+  {
+    "titulo": "Dantooine",
+    "creditos": "Dantari, Kumumgah",
+    "imagem": "/assets/imagens/StarWars/dantooine.jpeg",
+    "id": "10",
+    "tag": "Pastagens"
+  },
+  {
+    "titulo": "Daro",
+    "creditos": "Devaronian, Veknoid",
+    "imagem": "/assets/imagens/StarWars/daro.jpeg",
+    "id": "10",
+    "tag": "Desconhecida"
+  },
+  {
+    "titulo": "Dathomir",
+    "creditos": "Zabrak, Nightbrother",
+    "imagem": "/assets/imagens/StarWars/dathomir.jpeg",
+    "id": "10",
+    "tag": "Selva"
+  },
+  {
+    "titulo": "Dune Sea",
+    "creditos": "Jawa, Tusken Raider",
+    "imagem": "/assets/imagens/StarWars/duneSea.jpeg",
+    "id": "10",
+    "tag": "Deserto"
+  },
+  {
+    "titulo": "Eadu",
+    "creditos": "Vulptereen, Humanos",
+    "imagem": "/assets/imagens/StarWars/eadu.jpeg",
+    "id": "10",
+    "tag": "Rochoso"
+  },
+  {
+    "titulo": "Endor",
+    "creditos": "Ewoks, Dulok",
+    "imagem": "/assets/imagens/StarWars/endor.jpeg",
+    "id": "10",
+    "tag": "Floresta"
+  },
+  {
+    "titulo": "Geonosis",
+    "creditos": "Geonosian, Nexu",
+    "imagem": "/assets/imagens/StarWars/geonosis.jpeg",
+    "id": "10",
+    "tag": "Rochoso"
+  },
+  {
+    "titulo": "Hoth",
+    "creditos": "Tauntaun, Wampa",
+    "imagem": "/assets/imagens/StarWars/hoth.jpeg",
+    "id": "10",
+    "tag": "Tundra"
+  },
+  {
+    "titulo": "Ibaar",
+    "creditos": "Ibaarian, Kowakian monkey-lizard",
+    "imagem": "/assets/imagens/StarWars/ibaar.jpeg",
+    "id": "10",
+    "tag": "Oceânico"
+  },
+  {
+    "titulo": "Ilum",
+    "creditos": "Koorivar, Chiss",
+    "imagem": "/assets/imagens/StarWars/ilum.jpeg",
+    "id": "10",
+    "tag": "Gelado"
+  },
+  {
+    "titulo": "Jabiim",
+    "creditos": "Jabiimi, Badoo",
+    "imagem": "/assets/imagens/StarWars/jabiim.jpeg",
+    "id": "10",
+    "tag": "Desconhecida"
+  },
+  {
+    "titulo": "Jakku",
+    "creditos": "Niima Outpost, scavengers",
+    "imagem": "/assets/imagens/StarWars/jakku.jpeg",
+    "id": "10",
+    "tag": "Deserto"
+  },
+  {
+    "titulo": "Jedha",
+    "creditos": "Humanos, Guardians of the Whills",
+    "imagem": "/assets/imagens/StarWars/jedah.jpeg",
+    "id": "10",
+    "tag": "Deserto"
+  },
+  {
+    "titulo": "Kachiro",
+    "creditos": " Kachirho, Kowakian monkey-lizard",
+    "imagem": "/assets/imagens/StarWars/kachiro.jpeg",
+    "id": "10",
+    "tag": "Desconhecida"
+  },
+  {
+    "titulo": "Kaller",
+    "creditos": "Kalleran, Kage Warriors",
+    "imagem": "/assets/imagens/StarWars/kaller.jpeg",
+    "id": "10",
+    "tag": "Montanhoso"
+  },
+  {
+    "titulo": "Kamino",
+    "creditos": "Kaminoan, Fett clones",
+    "imagem": "/assets/imagens/StarWars/kamino.jpeg",
+    "id": "10",
+    "tag": "Oceânico"
+  },
+  {
+    "titulo": "Kashyyyk",
+    "creditos": "Wookiees, Trandoshan",
+    "imagem": "/assets/imagens/StarWars/kashyyyk.jpeg",
+    "id": "10",
+    "tag": "Floresta"
+  },
+  {
+    "titulo": "Kessel",
+    "creditos": "Pyke Syndicate, Guavian Death Gang",
+    "imagem": "/assets/imagens/StarWars/kessel.jpeg",
+    "id": "10",
+    "tag": "Deserto"
+  },
+  {
+    "titulo": "Krownest",
+    "creditos": "Mandalorianos, Clan Wren",
+    "imagem": "/assets/imagens/StarWars/krownest.jpeg",
+    "id": "10",
+    "tag": "Gelado"
+  },
+  {
+    "titulo": "Lah'mu",
+    "creditos": "Erso Family, Rebel Alliance",
+    "imagem": "/assets/imagens/StarWars/lah`mu.jpeg",
+    "id": "10",
+    "tag": "Montanhoso"
+  },
+  {
+    "titulo": "Lira San",
+    "creditos": "Lira San, Lirin",
+    "imagem": "/assets/imagens/StarWars/liraSan.jpeg",
+    "id": "10",
+    "tag": "Desconhecida"
+  },
+  {
+    "titulo": "Lothal",
+    "creditos": "Loth-rat, Loth-cat",
+    "imagem": "/assets/imagens/StarWars/lothal.jpeg",
+    "id": "10",
+    "tag": "Pastagens"
+  },
+  {
+    "titulo": "Mapuzo",
+    "creditos": "Mapuzungun, Mustafarian",
+    "imagem": "/assets/imagens/StarWars/mapuzo.jpeg",
+    "id": "10",
+    "tag": "Desconhecida"
+  },
+  {
+    "titulo": "Minban",
+    "creditos": "Mimbanese, Ardennian",
+    "imagem": "/assets/imagens/StarWars/minban.jpeg",
+    "id": "10",
+    "tag": "Rochoso"
+  },
+  {
+    "titulo": "Mokkotown",
+    "creditos": "Mokk, Kirin",
+    "imagem": "/assets/imagens/StarWars/mokkotown.jpeg",
+    "id": "10",
+    "tag": "Desconhecida"
   }
+  ,
+  {
+    "titulo": "Moraband",
+    "creditos": "Sith, Massassi",
+    "imagem": "/assets/imagens/StarWars/moraband.jpeg",
+    "id": "10",
+    "tag": "Rochoso"
+  }
+  ,
+  {
+    "titulo": "Mos Espa",
+    "creditos": "Toydarian, Hutts",
+    "imagem": "/assets/imagens/StarWars/mosEspa.jpeg",
+    "id": "10",
+    "tag": "Deserto"
+  }
+  
 ]
