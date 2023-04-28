@@ -1,8 +1,8 @@
-# Nome do meu projeto
+# Star Wars Galaxy
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido para fixar conteúdo das aulas de REACT.js
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |**Dyegho Cunha**
 | -------------  | --- |
 | :sparkles: Nome        | **Star Wars Galaxy**
 | :label: Tecnologias | React.Js, HTML5, SCSS.
@@ -10,10 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
+![](https://github.com/DyeghoCunha/galaxias/blob/master/imagemPagina.png#vitrinedev)
 
 
 ## STAR WARS PLANETAS 
@@ -22,6 +19,7 @@ Rápida descrição do objetivo de fazer esse projeto
 Projeto Inicial que devera conter as informações de todas as Galaxias conhecidas de Star Wars, assim como seus habitantes, raças e facções.
 
 
+## Planetas Adicionados e raças
 
 Asha-Ree: Zeffo, Jotaz.
 Bespin: Bespin Wing Guard, Ugnaughts.
