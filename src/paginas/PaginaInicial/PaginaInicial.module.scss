@@ -7,7 +7,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 2rem;
+  margin-top: 1rem;
 
   &__imagem {
     width: 88%;
@@ -38,7 +38,7 @@ main {
   justify-content: space-between;
   align-items: flex-start;
   margin-left: 17%;
-  margin-top: 1rem;
+  margin-top: -3rem;
 }
 
 .fundo{
@@ -47,7 +47,9 @@ main {
   padding: 0px;
   background-image: url(./fundoPagina.png);
   background-position: center bottom;
-  animation: move-background 60s linear infinite;
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+  animation: move-background 120s linear infinite;
 }
 
 
@@ -56,14 +58,17 @@ main {
 @keyframes move-background {
   0% {
     background-position: 0 0;
+    background-size: 110% 110%;
     background-position-y: 100%
   }
   50% {
     background-position: 100% 0;
+    background-size: 150% 150%;
     background-position-y: 0
   }
   100% {
     background-position: 0 0;
+    background-size: 110% 110%;
     background-position-y: 100%
     
   }

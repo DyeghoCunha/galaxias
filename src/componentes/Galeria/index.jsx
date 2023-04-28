@@ -5,6 +5,8 @@ import fotos from './fotos.json'
 
 import Cards from './Cards'
 
+
+
 export default function Galeria() {
 
   const[itens,setItens] = useState(fotos);
